@@ -1,0 +1,15 @@
+C:\Users\hunvr\Desktop\Week7_SatClass\bin\Debug\net6.0\Week7_SatClass.exe
+C:\Users\hunvr\Desktop\Week7_SatClass\bin\Debug\net6.0\Week7_SatClass.deps.json
+C:\Users\hunvr\Desktop\Week7_SatClass\bin\Debug\net6.0\Week7_SatClass.runtimeconfig.json
+C:\Users\hunvr\Desktop\Week7_SatClass\bin\Debug\net6.0\Week7_SatClass.dll
+C:\Users\hunvr\Desktop\Week7_SatClass\bin\Debug\net6.0\Week7_SatClass.pdb
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.csproj.AssemblyReference.cache
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.AssemblyInfoInputs.cache
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.AssemblyInfo.cs
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.csproj.CoreCompileInputs.cache
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.dll
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\refint\Week7_SatClass.dll
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.pdb
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\Week7_SatClass.genruntimeconfig.cache
+C:\Users\hunvr\Desktop\Week7_SatClass\obj\Debug\net6.0\ref\Week7_SatClass.dll
